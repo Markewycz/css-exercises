@@ -1,0 +1,17 @@
+.odd {
+  background-color: rgb(255, 182, 193);
+  font-family: Verdana, sans-serif;
+}
+.second {
+  font-size: 36px;
+  color: rgba(49, 49, 255, 0.768);
+}
+
+.forth {
+  background-color: rgb(144, 238, 144);
+  font-weight: bold;
+}
+
+.bigger {
+  font-size: 24px;
+}
