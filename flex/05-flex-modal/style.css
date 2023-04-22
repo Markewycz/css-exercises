@@ -78,9 +78,9 @@ button.cancel {
 }
 
 .modal {
-  padding: 12px;
+  padding: 16px;
   display: flex;
-  gap: 12px;
+  gap: 16px;
 }
 
 .top-text {
@@ -92,5 +92,5 @@ button.cancel {
 .middle-section {
   display: flex;
   flex-direction: column;
-  gap: 12px;
+  gap: 10px;
 }
